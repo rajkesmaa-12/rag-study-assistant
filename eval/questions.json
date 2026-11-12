@@ -1,0 +1,10 @@
+[
+  {"question": "What is a PUF used for?", "source": "iot_security.md"},
+  {"question": "Which chip stores keys and supports remote attestation?", "source": "iot_security.md"},
+  {"question": "What lightweight encryption did NIST select?", "source": "iot_security.md"},
+  {"question": "Difference between reproducibility and replicability", "source": "reproducibility.md"},
+  {"question": "How do I make Docker builds reproducible?", "source": "reproducibility.md"},
+  {"question": "What does the learning rate control?", "source": "machine_learning.md"},
+  {"question": "How can I reduce overfitting?", "source": "machine_learning.md"},
+  {"question": "Why does RAG reduce hallucinations?", "source": "machine_learning.md"}
+]
