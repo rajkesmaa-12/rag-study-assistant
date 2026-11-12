@@ -1,5 +1,7 @@
 # 📚 StudyRAG — Ask Your Own Lecture Notes
 
+[![tests](https://github.com/rajkesmaa-12/rag-study-assistant/actions/workflows/tests.yml/badge.svg)](https://github.com/rajkesmaa-12/rag-study-assistant/actions/workflows/tests.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 A retrieval-augmented generation (RAG) assistant that answers questions **from your own study material** (PDF, Markdown, text) and **cites the passages it used**.
 
 Works fully offline with a TF-IDF retriever and an extractive answerer, and switches to **Claude** or **OpenAI** for generated answers when an API key is set.
